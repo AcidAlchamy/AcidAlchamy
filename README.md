@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER SECTION -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=ACIDALCHEMY&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00d4ff&height=200&section=header&text=ACIDALCHAMY&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Innovation&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%AC+Full+Stack+Developer+%7C+Researcher+%7C+Innovator;%E2%9A%97%EF%B8%8F+Transforming+Ideas+Into+Digital+Reality;%F0%9F%9A%80+Building+The+Future%2C+One+Commit+At+A+Time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%7C+Researcher;Transforming+Ideas+Into+Reality;Building+The+Future" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <br/>
@@ -91,14 +91,14 @@ const AcidAlchamy = {
 
 <!-- GITHUB STATS ROW -->
 <a href="https://github.com/AcidAlchamy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AcidAlchamy&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcidAlchamy&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcidAlchamy&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcidAlchamy&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10"/>
 </a>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AcidAlchamy&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=586069" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=AcidAlchamy&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=586069" alt="streak"/>
 
 <br/><br/>
 
