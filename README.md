@@ -98,7 +98,7 @@ const AcidAlchamy = {
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com/?user=AcidAlchamy&theme=transparent&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=586069" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AcidAlchamy&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=586069" alt="streak"/>
 
 <br/><br/>
 
@@ -110,7 +110,7 @@ const AcidAlchamy = {
 <!-- TROPHIES -->
 ### 🏆 `ACHIEVEMENTS.unlocked()`
 
-<img src="https://github-profile-trophy.vercel.app/?username=AcidAlchamy&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&title_color=00d4ff"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AcidAlchamy&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"/>
 
 </div>
 
