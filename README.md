@@ -126,7 +126,7 @@ const AcidAlchamy = {
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/AcidAlchamy)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00d4ff)](https://twitter.com/AcidAlchamy)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d4ff)](https://instagram.com/AcidAlchamy)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://acidalchemy.dev)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00d4ff)](https://AcidAlchamy.com)
 
 </div>
 
