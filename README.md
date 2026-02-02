@@ -20,7 +20,7 @@
 
 <div align="center">
 
-## ⚡ `SYSTEM.INIT()` — NEURAL INTERFACE ONLINE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%9A%A1+SYSTEM.INIT()+%E2%80%94+NEURAL+INTERFACE+ONLINE" alt="Section" />
 
 </div>
 
@@ -52,7 +52,7 @@ const AcidAlchamy = {
 <br/>
 
 <!-- LANGUAGES -->
-### 「 LANGUAGES 」
+<img src="https://img.shields.io/badge/%E3%80%8C_LANGUAGES_%E3%80%8D-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00d4ff)
@@ -63,7 +63,7 @@ const AcidAlchamy = {
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00d4ff)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00d4ff)
 
-### 「 FRAMEWORKS & TOOLS 」
+<img src="https://img.shields.io/badge/%E3%80%8C_FRAMEWORKS_%26_TOOLS_%E3%80%8D-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d4ff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00d4ff)
@@ -72,7 +72,7 @@ const AcidAlchamy = {
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d4ff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d4ff)
 
-### 「 DESIGN & DATA 」
+<img src="https://img.shields.io/badge/%E3%80%8C_DESIGN_%26_DATA_%E3%80%8D-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00d4ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00d4ff)
@@ -85,30 +85,30 @@ const AcidAlchamy = {
 
 <div align="center">
 
-## 📊 `ANALYTICS.render()` — REAL-TIME METRICS
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=550&lines=%F0%9F%93%8A+ANALYTICS.render()+%E2%80%94+REAL-TIME+METRICS" alt="Section" />
 
 <br/>
 
 <!-- GITHUB STATS ROW -->
 <a href="https://github.com/AcidAlchamy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcidAlchamy&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcidAlchamy&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AcidAlchamy&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcidAlchamy&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&langs_count=10"/>
 </a>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AcidAlchamy&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=586069" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AcidAlchamy&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=FFD700&currStreakLabel=FFD700&sideLabels=00D4FF&currStreakNum=FFD700&sideNums=C9D1D9&dates=586069" alt="streak"/>
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AcidAlchamy&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&custom_title=📈%20Contribution%20Signal%20Analysis" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AcidAlchamy&bg_color=0d1117&color=FFD700&line=00d4ff&point=FFD700&area=true&area_color=00d4ff&hide_border=true&custom_title=📈%20Contribution%20Signal%20Analysis" width="95%"/>
 
 <br/><br/>
 
 <!-- TROPHIES -->
-### 🏆 `ACHIEVEMENTS.unlocked()`
+<img src="https://img.shields.io/badge/%F0%9F%8F%86_ACHIEVEMENTS.unlocked()-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AcidAlchamy&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"/>
 
@@ -118,7 +118,7 @@ const AcidAlchamy = {
 
 <div align="center">
 
-## 📡 `NETWORK.connect()` — ESTABLISH LINK
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%F0%9F%93%A1+NETWORK.connect()+%E2%80%94+ESTABLISH+LINK" alt="Section" />
 
 <br/>
 
@@ -134,7 +134,7 @@ const AcidAlchamy = {
 
 <div align="center">
 
-## 🐍 `CONTRIBUTION_SNAKE.animate()`
+<img src="https://img.shields.io/badge/%F0%9F%90%8D_CONTRIBUTION__SNAKE.animate()-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AcidAlchamy/AcidAlchamy/output/github-snake-dark.svg" />
@@ -148,7 +148,7 @@ const AcidAlchamy = {
 
 <div align="center">
 
-## 💭 `RANDOM_THOUGHT.generate()`
+<img src="https://img.shields.io/badge/%F0%9F%92%AD_RANDOM__THOUGHT.generate()-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 
@@ -161,7 +161,7 @@ const AcidAlchamy = {
 <div align="center">
 
 <!-- METRICS WIDGET -->
-## 📈 `DEEP_METRICS.analyze()`
+<img src="https://img.shields.io/badge/%F0%9F%93%88_DEEP__METRICS.analyze()-FFD700?style=for-the-badge&labelColor=0d1117"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AcidAlchamy&theme=github_dark" width="95%"/>
 
