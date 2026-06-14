@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%9A%A1+SYSTEM.INIT()+%E2%80%94+NEURAL+INTERFACE+ONLINE" alt="Section" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%E2%9A%A1.SYSTEM.INIT()+%E2%80%94+NEURAL+INTERFACE+ONLINE" alt="Section" />
 
 </div>
 
